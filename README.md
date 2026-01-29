@@ -14,7 +14,6 @@ Tools Used:
 - Embedded C
 - MPLAB X IDE
 - PICSimLab
-- PIC Microcontroller
 
 Author:
 Prabakaran P
